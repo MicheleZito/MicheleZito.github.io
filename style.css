@@ -1,7 +1,7 @@
 .fit-image{
 width: 90%;
 object-fit: cover;
-height: 304px; /* only if you want fixed height */
+height: 204px; /* only if you want fixed height */
 }
 
  .fakeimg {
